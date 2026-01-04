@@ -1,4 +1,14 @@
-pip install robotframework
-pip install robotframework-seleniumlibrary
-pip install robotframework-requests
-pip install robotframework-jsonlibrary
+@echo off
+
+REM Install Robot Framework core
+REM pip install robotframework
+
+REM Install Selenium support
+REM pip install robotframework-seleniumlibrary
+
+REM Install API testing support
+REM pip install robotframework-requests
+
+REM Install JSON support
+REM pip install robotframework-jsonlibrary
+
