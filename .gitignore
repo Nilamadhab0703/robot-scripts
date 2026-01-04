@@ -14,3 +14,5 @@ output/
 log.html
 report.html
 report.xml
+# Ignore local experiments
+first-script/
