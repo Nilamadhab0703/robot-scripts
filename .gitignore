@@ -1,0 +1,16 @@
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# Robot Framework outputs
+output/
+log.html
+report.html
+report.xml
